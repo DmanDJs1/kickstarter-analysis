@@ -18,6 +18,8 @@ The purpose of this analysis was to show Louise how different campaigns fare in 
 
 ### Analysis of Outcomes Based on Launch Date
 
+The month that launched the most successful funding campaigns was the month of May.
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
@@ -44,4 +46,6 @@ can be successfully launched and given the data we would advise to attempt a pro
 - What are some other possible tables and/or graphs that we could create? 
 
 
-- ![image_name](path/to/image_name.png) Graph 1.) Outcomes Based on Launch Date 2) Parent Category Outcomes1 3) Subcategory 
+- ![Outcomes Based on Goal](https://raw.githubusercontent.com/DmanDJs1/kickstarter-analysis/main/resources/Outcomes_vs_Goals.png) 
+- ![Theater Outcomes based on Launch Date](https://raw.githubusercontent.com/DmanDJs1/kickstarter-analysis/main/resources/Theater_Outcomes_vs_Launch.png) 
+
